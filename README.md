@@ -4,3 +4,4 @@ Bir projem için gerekli olan Türk Üniversitelerinin telefon,üniversite web s
 
 Veriler YOK.GOV.TR adresindeki en güncel verilerdir.
 
+![Api görünümü](https://i.imgur.com/4yqpZ8Q.png)
